@@ -36,14 +36,22 @@
 }
 
 .site-title {
-  display: -webkit-box;
-  display: flex;
-  padding: 0.5rem 0;
-  align-self: stretch;
-  -webkit-box-align: center;
-        align-items: center;
-  font-weight: bold;
-  z-index: 20;
+  // by text
+  // display: -webkit-box;
+  // display: flex;
+  // padding: 0.5rem 0;
+  // align-self: stretch;
+  // -webkit-box-align: center;
+  //       align-items: center;
+  // font-weight: bold;
+  // z-index: 20;
+  // by png
+  width: 200px;
+  height: 70px;
+  background: url(/assets/images/logo-landscape.png) no-repeat 100% 5px;
+  background-size: 200px auto;
+  text-indent: -9999px;
+  outline: none;
 }
 
 .masthead__menu {
