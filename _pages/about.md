@@ -78,3 +78,7 @@ ComputerCraft、ComputerCraftEduという拡張機能を使ってプログラミ
 ## 過去の活動報告
 
 現在は主にFacebookの方に活動報告していますので、ぜひご覧ください。
+
+[CoderDojo 長津田 Facebook](https://www.facebook.com/coderdojo.nagatsuta/){: .btn .btn--inverse}
+
+[CoderDojo 長津田 Twitter](https://twitter.com/CoderDojoNGTD){: .btn .btn--inverse}

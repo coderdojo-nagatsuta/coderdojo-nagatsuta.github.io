@@ -98,3 +98,7 @@ CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場�
 ## Facebook, Twitter
 
 Facebook、Twitterで随時情報を発信しています。ぜひフォローしてください！
+
+[CoderDojo 長津田 Facebook](https://www.facebook.com/coderdojo.nagatsuta/){: .btn .btn--inverse}
+
+[CoderDojo 長津田 Twitter](https://twitter.com/CoderDojoNGTD){: .btn .btn--inverse}
