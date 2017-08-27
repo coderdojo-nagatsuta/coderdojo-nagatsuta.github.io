@@ -11,7 +11,7 @@ header:
   cta_url: "https://coderdojo-nagatsuta.connpass.com/"
 excerpt: "CoderDojoは子どものためのプログラミング道場です"
 intro:
-  - excerpt: "次回開催は2017年8月26日（土）です！"
+  - excerpt: "次回開催は2017年9月24日（日）です！"
 feature_row:
   - image_path: /assets/images/announce-front.jpg
     alt: "活動内容を知りたい！"
@@ -102,3 +102,11 @@ Facebook、Twitterで随時情報を発信しています。ぜひフォロー�
 [CoderDojo 長津田 Facebook](https://www.facebook.com/coderdojo.nagatsuta/){: .btn .btn--inverse}
 
 [CoderDojo 長津田 Twitter](https://twitter.com/CoderDojoNGTD){: .btn .btn--inverse}
+
+## 過去の開催レポート
+
+<div class="grid__wrapper">
+  {% for post in site.reports %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

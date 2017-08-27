@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -230,6 +230,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  reports:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -251,3 +255,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _reports
+  - scope:
+      path: ""
+      type: reports
+    values:
+      layout: single
+      author_profile: true
+      share: true

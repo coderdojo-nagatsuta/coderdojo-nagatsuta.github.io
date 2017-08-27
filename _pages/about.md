@@ -82,3 +82,11 @@ ComputerCraft、ComputerCraftEduという拡張機能を使ってプログラミ
 [CoderDojo 長津田 Facebook](https://www.facebook.com/coderdojo.nagatsuta/){: .btn .btn--inverse}
 
 [CoderDojo 長津田 Twitter](https://twitter.com/CoderDojoNGTD){: .btn .btn--inverse}
+
+## 過去の開催レポート
+
+<div class="grid__wrapper">
+  {% for post in site.reports %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
