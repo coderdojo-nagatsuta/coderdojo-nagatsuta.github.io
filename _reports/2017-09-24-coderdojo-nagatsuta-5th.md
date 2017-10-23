@@ -21,7 +21,7 @@ excerpt: "2017年9月24日（日）東急田園都市線、長津田駅近くの
 ![image-center](/assets/images/posts/5/4.jpg){: .align-center}
 ![image-center](/assets/images/posts/5/5.jpg){: .align-center}
 
-そして、** mBot **を使ったルーレットのデモをあきさんがやってくれました。
+そして、**mBot**を使ったルーレットのデモをあきさんがやってくれました。
 
 ![image-center](/assets/images/posts/5/2.jpg){: .align-center}
 
