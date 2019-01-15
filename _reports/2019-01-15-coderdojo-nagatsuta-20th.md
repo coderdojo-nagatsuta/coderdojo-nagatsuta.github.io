@@ -1,11 +1,11 @@
 ---
 categories: reports
-title: "第21回 CoderDojo長津田開催レポート"
+title: "第20回 CoderDojo長津田開催レポート"
 header:
-  overlay_image: /assets/images/posts/21/8.jpg
+  overlay_image: /assets/images/posts/20/8.jpg
   overlay_filter: "0.5"
-  teaser: /assets/images/posts/21/8.jpg
-excerpt: "新年1回目、2019年1月14日（月）東急田園都市線、長津田駅近くのみどりアートパークで第21回CoderDojo長津田開催しました。"
+  teaser: /assets/images/posts/20/8.jpg
+excerpt: "新年1回目、2019年1月14日（月）東急田園都市線、長津田駅近くのみどりアートパークで第20回CoderDojo長津田開催しました。"
 ---
 
 昨日、第20回CoderDojo長津田を開催しました。
@@ -16,13 +16,13 @@ excerpt: "新年1回目、2019年1月14日（月）東急田園都市線、長�
 
 本日はメンターとして、埼玉からはるばる豊田さんにも来ていただき、micro:bitをニンジャに丁寧に説明していただきました。
 
-![image-center](/assets/images/posts/21/21.jpg){: .align-center}
+![image-center](/assets/images/posts/20/21.jpg){: .align-center}
 
 私も即Amazonで、micro:bit購入しました！
 
 ## 会場の様子
 
-![image-center](/assets/images/posts/21/23.jpg){: .align-center}
+![image-center](/assets/images/posts/20/23.jpg){: .align-center}
 
 本日は人数が多かったこともあり、大人の方全員が座れないという感じになってしまっていました。。
 
@@ -32,7 +32,7 @@ excerpt: "新年1回目、2019年1月14日（月）東急田園都市線、長�
 
 ## 発表会
 
-![image-center](/assets/images/posts/21/34.jpg){: .align-center}
+![image-center](/assets/images/posts/20/34.jpg){: .align-center}
 
 発表会では、Scratch、Minecraft、はじめて触るロボットに挑戦してくれたニンジャ、micro:bitなどなどバリエーションが多くとても楽しかったです。
 
