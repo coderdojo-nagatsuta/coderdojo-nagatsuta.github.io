@@ -11,7 +11,7 @@ header:
   cta_url: "https://coderdojo-nagatsuta.connpass.com/"
 excerpt: "CoderDojoは子どものためのプログラミング道場です"
 intro:
-  - excerpt: "次回CoderDojo長津田第28回は2020年1月19日（日）です。"
+  - excerpt: "次回CoderDojo長津田予定は未定です。開催予定の最新情報はFacebook, Twitterをご参照ください。"
 feature_row:
   - image_path: /assets/images/announce-front.jpg
     alt: "活動内容を知りたい！"
